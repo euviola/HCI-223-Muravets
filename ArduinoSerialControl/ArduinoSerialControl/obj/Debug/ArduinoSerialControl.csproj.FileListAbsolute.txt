@@ -1,0 +1,10 @@
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\bin\Debug\ArduinoSerialControl.exe.config
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\bin\Debug\ArduinoSerialControl.exe
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\bin\Debug\ArduinoSerialControl.pdb
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\obj\Debug\ArduinoSerialControl.csproj.AssemblyReference.cache
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\obj\Debug\ArduinoSerialControl.Form1.resources
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\obj\Debug\ArduinoSerialControl.Properties.Resources.resources
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\obj\Debug\ArduinoSerialControl.csproj.GenerateResource.cache
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\obj\Debug\ArduinoSerialControl.csproj.CoreCompileInputs.cache
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\obj\Debug\ArduinoSerialControl.exe
+C:\Users\Євген\source\repos\ArduinoSerialControl\ArduinoSerialControl\obj\Debug\ArduinoSerialControl.pdb

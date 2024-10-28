@@ -1,0 +1,1 @@
+In Sketch1 there's a code for Arduino UNO. In "ArduinoSerialControl" there's a code to use Arduino via Visual Studio.
